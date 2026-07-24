@@ -1,0 +1,2 @@
+body{overflow-x:hidden}.prose{overflow-wrap:anywhere}
+@media(max-width:850px){.site-header{padding-left:18px;padding-right:18px}.site-header nav{gap:0}.site-header .search-open{font-size:0}.site-header .search-open:before{content:'Поиск';font-size:14px}.site-header kbd{display:none}.article,.crumbs{width:100%;padding-left:22px;padding-right:22px}.article-head h1{overflow-wrap:anywhere}.prose{width:100%;max-width:100%}}
